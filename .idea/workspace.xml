@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51d116d6-b7f3-46c4-a3e7-8a1edd3d8e13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Map/src/HashMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map/src/HashMap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Map/src/HashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map/src/HashSet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set/src/HashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set/src/HashSet/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +51,25 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.16813296",
+    "project.structure.side.proportion": "0.11764705",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HashSet.Main">
+    <configuration name="HashSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSet.Main" />
+      <module name="Set" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMap.Main" />
       <module name="Map" />
@@ -72,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSet.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -90,7 +104,7 @@
       <workItem from="1687856164394" duration="168000" />
       <workItem from="1687856409087" duration="645000" />
       <workItem from="1687876998793" duration="230000" />
-      <workItem from="1689314113831" duration="986000" />
+      <workItem from="1689314113831" duration="3501000" />
     </task>
     <servers />
   </component>
